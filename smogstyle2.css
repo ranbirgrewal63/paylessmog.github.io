@@ -1,13 +1,17 @@
-h4,p{
+h4{
     text-align: center;
     font-size: 75px;
+    color: blue;
+    margin-top: 450px;
+    text-align: center;
+    
 }
 table, th, td {
     border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
     font-size:40px;
-    margin-bottom: 100px;
+    margin-bottom: 350px;
 }
 nav a{
     color: green;
@@ -63,13 +67,17 @@ background-color: blue;
     color: white;
   }
   body{
-    background-image: url('smogshop.jpeg');
+    background-image: url('paylesshop.png');
     background-repeat: no-repeat;
-    background-size: 1500px 280px;
+    background-size: 2100px 490px;
   }
-.introduction h4{
-  border-top: 2px solid red;
-    border-right: 2px solid blue;
-    border-bottom: 2px solid green;
-    border-left: 2px solid yellow;
+.introduction span h4{
+  
+  border-right: 10px solid blue;
+  border-left: 10px solid yellow;
+  border-top: 10px solid green;
+  border-bottom: 10px solid orange;
+
+
 }
+
