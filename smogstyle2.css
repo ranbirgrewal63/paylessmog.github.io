@@ -4,7 +4,6 @@ h4{
     color: blue;
     margin-top: 450px;
     text-align: center;
-    
 }
 table, th, td {
     border: 1px solid black;
@@ -69,7 +68,7 @@ background-color: blue;
   body{
     background-image: url('paylesshop.png');
     background-repeat: no-repeat;
-    background-size: 2100px 490px;
+    background-size: 2050px 500px;
   }
 .introduction span h4{
   
@@ -77,7 +76,6 @@ background-color: blue;
   border-left: 10px solid yellow;
   border-top: 10px solid green;
   border-bottom: 10px solid orange;
-
 
 }
 
